@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-25T23:08:14 IST" name="Suite" finished-at="2024-01-25T23:12:15 IST" duration-ms="240717">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T23:08:14 IST" name="Test" finished-at="2024-01-25T23:12:15 IST" duration-ms="240717">
+      <class name="com.snl.basicproject.MyTest1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:08:14 IST" name="setup" finished-at="2024-01-25T23:09:09 IST" duration-ms="55191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TotalLink()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:09:09 IST" name="TotalLink" finished-at="2024-01-25T23:09:29 IST" duration-ms="20191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:09:29 IST" name="teardown" finished-at="2024-01-25T23:09:36 IST" duration-ms="6577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:09:36 IST" name="setup" finished-at="2024-01-25T23:10:10 IST" duration-ms="34077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:10:10 IST" name="verifyTitle" finished-at="2024-01-25T23:10:10 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:10:10 IST" name="teardown" finished-at="2024-01-25T23:10:14 IST" duration-ms="3575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:10:14 IST" name="setup" finished-at="2024-01-25T23:11:33 IST" duration-ms="79325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifygmaiLink()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:11:33 IST" name="verifygmaiLink" finished-at="2024-01-25T23:11:35 IST" duration-ms="2053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifygmaiLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:11:35 IST" name="teardown" finished-at="2024-01-25T23:11:38 IST" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:11:38 IST" name="setup" finished-at="2024-01-25T23:12:13 IST" duration-ms="35527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogoimg()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:12:13 IST" name="verifylogoimg" finished-at="2024-01-25T23:12:14 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoimg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.snl.basicproject.MyTest1@50b472aa]" started-at="2024-01-25T23:12:14 IST" name="teardown" finished-at="2024-01-25T23:12:15 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.snl.basicproject.MyTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
