@@ -62,6 +62,12 @@ public class Google_LoginTest {
 	{
 		System.out.println("This is m1 method");
 	}
+	@Test
+	public void m2()
+	{
+		System.out.println("This is m2 method");
+	}
+	
 	@AfterMethod
 	public void teardown()
 	{
